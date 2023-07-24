@@ -1,4 +1,0 @@
-/home/learnerqxm/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/learnerqxm/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/linux/ninja -G Ninja -S /home/learnerqxm/CLionProjects/2022-cpl-project2 -B /home/learnerqxm/CLionProjects/2022-cpl-project2/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/learnerqxm/CLionProjects/2022-cpl-project2/cmake-build-debug
