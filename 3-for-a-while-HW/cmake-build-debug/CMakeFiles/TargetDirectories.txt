@@ -1,8 +1,0 @@
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/flip.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/statistics.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/josephus.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/decimal.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/palindrome.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/Quick-sort.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/learnerqxm/codes/CPL/3-for-a-while-HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
