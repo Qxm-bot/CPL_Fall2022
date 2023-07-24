@@ -1,0 +1,3 @@
+/home/learnerqxm/CLionProjects/2022-cpl-project2/cmake-build-debug/CMakeFiles/main.dir
+/home/learnerqxm/CLionProjects/2022-cpl-project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/learnerqxm/CLionProjects/2022-cpl-project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
