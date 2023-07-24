@@ -1,5 +1,5 @@
 add_executable(sum sum.c)
-add_executable(absolute-prime absolute-prime.c)
+add_executable(absolute-prime absolute-prime.c ../finalProject-ramfs/ramfs.c ../finalProject-ramfs/main.c)
 add_executable(radix radix.c)
 add_executable(next-permutation next-permutation.c)
 add_executable(magic-square magic-square.c)
