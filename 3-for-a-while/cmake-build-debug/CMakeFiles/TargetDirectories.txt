@@ -1,4 +1,0 @@
-D:/learnerqxm/codes/CPL/3-for-a-while/cmake-build-debug/CMakeFiles/stars.dir
-D:/learnerqxm/codes/CPL/3-for-a-while/cmake-build-debug/CMakeFiles/primes.dir
-D:/learnerqxm/codes/CPL/3-for-a-while/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/learnerqxm/codes/CPL/3-for-a-while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
