@@ -3,8 +3,8 @@ project(CPL C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_subdirectory(C_Programming_A_Modern_Approach)
-add_subdirectory(Problem_Set)
+add_subdirectory(cProgramming_aModernApproach)
+add_subdirectory(ProblemSet)
 add_subdirectory(0-intro)
 add_subdirectory(1-types-io-HW)
 add_subdirectory(2-if-for-array)
